@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortlight">
+        <item>路口升序</item>
+        <item>路口降序</item>
+        <item>红灯升序</item>
+        <item>红灯降序</item>
+        <item>绿灯升序</item>
+        <item>绿灯降序</item>
+        <item>黄灯升序</item>
+        <item>黄灯降序</item>
+    </string-array>
+    <string-array name="zxing_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="item_1">第1题(车辆ETC)</string>
+    <string name="item_2">第2题(红绿灯管理)</string>
+    <string name="item_3">第3题(充值历史记录)</string>
+    <string name="item_4">第4题(车辆违章浏览功能)</string>
+    <string name="item_5">第5题(系统环境指标实时显示功能)</string>
+    <string name="item_6">第6题(传感器实时数据显示)</string>
+    <string name="item_7">第7题(阈值设置)</string>
+    <string name="item_8">第8题(公司交通单双号管制)</string>
+    <string name="item_9">第9题(车辆账户管理)</string>
+    <string name="item_10">第10题(公交查询)</string>
+    <string name="item_11">第11题(实现红绿灯管理)</string>
+    <string name="item_12">第12题(车辆违章查看功能)</string>
+    <string name="item_13">第13题(路况查询)</string>
+    <string name="item_14">第14题(生活助手)</string>
+    <string name="item_15">第15题(数据分析)</string>
+    <string name="item_16">第16题(个人中心)</string>
+    <string name="item_17">第17题(生活指数)</string>
+    <string name="item_18">第18题(我的消息)</string>
+    <string name="item_19">第19题(数据分析)</string>
+    <string name="item_20">第20题(个人中心)</string>
+    <string name="item_21">第21题(红绿灯管理)</string>
+    <string name="item_22">第22题(车辆ETC账户管理)</string>
+    <string name="item_23">第23题(车辆ETC账户告警)</string>
+    <string name="item_24">第24题(生活助手)</string>
+    <string name="item_25">第25题(路况查询)</string>
+    <string name="item_26">第26题(数据分析)</string>
+    <string name="item_27">第27题(生活助手)</string>
+    <string name="item_28">第28题(公交查询)</string>
+    <string name="item_29">第29题(实时环境)</string>
+    <string name="item_30">第30题(车辆违章视频)</string>
+    <string name="item_31">第31题(意见反馈)</string>
+    <string name="item_32">第32题(城市地铁查看)</string>
+    <string name="item_33">第33题(高速路况查询)</string>
+    <string name="item_34">第34题(高速ETC)</string>
+    <string name="item_35">第35题(旅行助手)</string>
+    <string name="item_36">第36题(天气信息)</string>
+    <string name="item_37">第37题(二维码支付)</string>
+    <string name="item_38">第38题(定制班车)</string>
+    <string name="item_39">第39题(新闻客户端)</string>
+    <string name="item_40">第40题(IC卡充值)</string>
+    <string name="item_41">第41题(车辆收费查询)</string>
+    <string name="item_42">第42题(停车场信息管理)</string>
+    <string name="item_43">第43题(小车充值功能)</string>
+    <string name="item_44">第44题(用户登录注册)</string>
+    <string name="item_45">第45题(我的座驾)</string>
+    <string name="item_46">第46题(我的交通功能)</string>
+    <string name="item_47">第47题(定制班车)</string>
+    <string name="item_48">第48题(判断网络状态)</string>
+    <string name="item_49">第49题(WEBVIEW)</string>
+    <string name="item_50">第50题(现路况分析)</string>
+    <string name="item_51">第51题(离线地图)</string>
+    <string name="item_52">第52题(离线地图2)</string>
+    <string name="item_53">第53题(日志查询)</string>
+    <string name="item_54">第54题(用户管理)</string>
+    <string name="item_55">第55题(公交查询)</string>
+    <string name="item_56">第56题(实时交通)</string>
+    <string name="item_57">第57题(环境监测)</string>
+    <string name="item_58">第58题(违章分析)</string>
+    <string name="item_59">第59题(车辆违章查看)</string>
+    <string name="item_60">第60题(实现排序功能)</string>
+    <string name="item_61">第61题(生活出行)</string>
+    <string name="item_62">第62题(违章类型分析)</string>
+    <string name="item_63">第63题(生活出行2)</string>
+    <string name="item_64">第64题(大大实现高速ETC管理功能)</string>
+    <string name="item_65">第65题(创意设计)</string>
+
+
+    <string-array name="message_sort">
+        <item>全部</item>
+        <item>温度</item>
+        <item>湿度</item>
+        <item>co2</item>
+        <item>光照强度</item>
+        <item>PM2.5</item>
+    </string-array>
+</resources>
